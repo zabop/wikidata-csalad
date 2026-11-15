@@ -21,7 +21,8 @@
 2 DATE 24 SEP 1864
 1 FAMS @F25@
 1 FAMC @F27@
-1 NOTE Count Orssich de Slavetich; died Varaždin. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Count Orssich de Slavetich; died Varaždin. Son of Ivan Nepomuk Oršić and Eleonora Keglević (sons August, Vilim, Ernest, Karlo): Muzej seljačkih buna (Peasants' Revolt Museum, Gornja Stubica), 'Obitelj
+2 CONC  Oršić', https://msb.mhz.hr/obitelj-orsic/. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I101@ INDI
 1 NAME Maria Theresia /Winterhoffen von Franckh/
 1 SEX F
@@ -3750,8 +3751,9 @@
 2 DATE 1816
 1 FAMS @F27@
 1 FAMC @F33@
-1 NOTE Count; died Varaždin. Parentage (son of Krsto II Orssich and Jozefa Zichy) rests on Tötösy alone: Nagy Iván (vol. 8, Orsich) names Krsto's sons as Kristóf and probably Ádám, and Croatian Wikipedia (Kr
-2 CONC sto II. Oršić) as Adam (1748) and Franjo (1758); neither lists János Nepomuk. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Count; died Varaždin. Son of Krsto II Orssich and Josipa Zichy; married Eleonora Keglević; sons August, Vilim, Ernest, Karlo: Muzej seljačkih buna (Peasants' Revolt Museum, Oršić castle, Gornja Stubic
+2 CONC a), 'Obitelj Oršić', https://msb.mhz.hr/obitelj-orsic/ ('Imali su tri sina: Adama, Franju III. i Ivana Nepomuka'; 'Ivan Nepomuk (1753.-1817.) ... Oženio je Eleonoru Keglević'). Nagy Iván (vol. 8, Orsi
+2 CONC ch) and Croatian Wikipedia list Krsto's children incompletely and omit him. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I520@ INDI
 1 NAME Wulfhilde of Saxony
 1 SEX F
@@ -3859,9 +3861,11 @@
 2 DATE 6 MAY 1778
 1 FAMS @F33@
 1 FAMC @F34@
-1 NOTE Countess Zichy; died Bisztra. Wife of Krsto II Orssich (m. 1744): Nagy Iván, vol. 8, Orsich; Croatian Wikipedia, Krsto II. Oršić (Josipa Zichy, 1725-1778). Her parentage (Péter Zichy and Zsuzsanna Ber
-2 CONC csényi) rests on Tötösy alone: Nagy Iván, Magyarország családai, vol. 12, Zichy, lists the children of that marriage as Sára and Miklós (table: Miklós, Zsuzsa) and does not name her. Source: Tötösy de
-2 CONC  Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Countess Zichy; died Bisztra. Wife of Krsto II Orssich (m. 1744): Nagy Iván, vol. 8, Orsich; Croatian Wikipedia, Krsto II. Oršić (Josipa Zichy, 1725-1778). Daughter of Péter Zichy (1674-1726) and his 
+2 CONC second wife Zsuzsanna Bercsényi (1691-1745): Miroslav Marek, Genealogy.EU, Zichy 2, http://genealogy.euweb.cz/hung/zichy2.html ('Jozefa, *1725, +Bistra 6.5.1778; m.Pest 1744 Gf Kristóf Orssich de Slav
+2 CONC etich'). Born 1725, consistent with her death 'in her 53rd year' in 1778 (Muzej seljačkih buna (Peasants' Revolt Museum, Oršić castle, Gornja Stubica), 'Obitelj Oršić', https://msb.mhz.hr/obitelj-orsi
+2 CONC c/). Nagy Iván, vol. 12, Zichy, lists that marriage's children incompletely and omits her; Wurzbach (BLKÖ, Zichy-Vásonykeő, Peter) gives seven children of both marriages. The Croatian History Museum's
+2 CONC  birth date 'Buda, 1732/5' conflicts. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I530@ INDI
 1 NAME Alfonso VIII of Castile
 1 SEX M
