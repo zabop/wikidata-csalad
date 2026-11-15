@@ -1,0 +1,9 @@
+{
+  "name": "ged-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local, dependency-free GEDCOM pedigree viewer",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Family Tree Viewer</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Family Tree Viewer</h1>
+    <label class="file-pick">File <select id="file-select" title="Choose which GEDCOM file to view"></select></label>
+    <div class="search">
+      <input id="search" type="search" placeholder="Search ancestors… (e.g. Orssich, Charlemagne)" autocomplete="off">
+      <ul id="results" hidden></ul>
+    </div>
+    <div class="controls view-toggle">
+      <button id="view-pedigree" class="active" title="Few generations around one person">Pedigree</button>
+      <button id="view-overview" title="Every ancestor once, all generations">Overview (all generations)</button>
+    </div>
+    <div class="controls">
+      <button id="back" title="Back">←</button>
+      <button id="forward" title="Forward">→</button>
+      <button id="home" title="Go to the starting person">Start</button>
+      <label id="gens-label">Generations
+        <select id="gens">
+          <option>3</option><option selected>4</option><option>5</option><option>6</option>
+        </select>
+      </label>
+    </div>
+    <span id="stats"></span>
+  </header>
+  <main>
+    <section id="chart-wrap">
+      <svg id="chart" role="img" aria-label="Pedigree chart"></svg>
+      <canvas id="overview" aria-label="All ancestors overview"></canvas>
+      <div id="ov-tooltip" hidden></div>
+      <div id="ov-help">Scroll to zoom · drag to pan · click to select · double-click to open in pedigree · <button id="ov-fit">Fit all</button></div>
+    </section>
+    <aside id="details"></aside>
+  </main>
+  <script src="gedcom.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
