@@ -335,7 +335,8 @@
 2 DATE 1 MAR 1723
 1 FAMS @F467@
 1 FAMC @F469@
-1 NOTE Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Baron Bernát Orsich, husband of Anna Patachich: Nagy Iván, Magyarország családai, vol. 9, Patachich, p. 110; unnamed in the Orsich table (vol. 8), which shows a son of Antal as father of Kristóf. Sour
+2 CONC ce: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I140@ INDI
 1 NAME Marzia di Franco
 1 SEX F
@@ -636,7 +637,8 @@
 1 BIRT
 2 DATE 1670
 1 FAMS @F468@
-1 NOTE Nádasdi Darabos. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Nádasdi Darabos. Tötösy gives her first name as Ilona; Nagy Iván, Magyarország családai, vol. 9, Patachich, p. 110 gives Anna. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Pur
+2 CONC due), Orssich section.
 0 @I180@ INDI
 1 NAME Maria-Klara Melith de Briber
 1 SEX F
@@ -2160,8 +2162,8 @@
 2 DATE 1810
 1 FAMS @F28@
 1 FAMC @F30@
-1 NOTE Count. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section. Wikipedia (Péter Keglevich) gives his parents as Alexander Keglevich and Maria Anna Petazzi (m. 1
-2 CONC 736).
+1 NOTE Count. Son of Sándor Keglevich and Teodóra Petazzi: Nagy Iván, Magyarország családai, vol. 6, Keglevich (family table: children of Sándor Gyula, József, Johanna). Source: Tötösy de Zepetnek, Records o
+2 CONC f the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I370@ INDI
 1 NAME Agnes of Blois
 1 SEX F
@@ -2466,7 +2468,8 @@
 2 DATE 1752
 1 FAMS @F30@
 1 FAMC @F31@
-1 NOTE Count. Source: Wikipedia, Péter Keglevich.
+1 NOTE Count. Son of Péter (VI) Keglevich, vice-ban, and Johanna Orehóczy: Nagy Iván, Magyarország családai, vol. 6, Keglevich ('Orehóczy Johannától két fiú-gyermeke: II. László és Sándor maradt'). Also Wiki
+2 CONC pedia, Péter Keglevich.
 0 @I400@ INDI
 1 NAME Rudolph, Count of Werdenberg-Sargans (d.1323)
 1 SEX M
@@ -3204,7 +3207,8 @@
 1 DEAT
 2 DATE 1685
 1 FAMS @F471@
-1 NOTE Earlier Orssich generations omitted: the published chain shows a generation gap. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE János-Ferenc Orsich, royal steward and castle captain, baron 1675: Nagy Iván, Magyarország családai, vol. 8, Orsich. Earlier Orssich generations omitted: the published chain shows a generation gap. So
+2 CONC urce: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I470@ INDI
 1 NAME Adelaide of Maurienne
 1 SEX F
@@ -3313,7 +3317,7 @@
 1 DEAT
 2 DATE 1728
 1 FAMS @F468@
-1 NOTE Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE János (IV) Patachich, living 1702: Nagy Iván, Magyarország családai, vol. 9, Patachich, p. 110. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I480@ INDI
 1 NAME Bertha of Savoy
 1 SEX F
@@ -3746,7 +3750,8 @@
 2 DATE 1816
 1 FAMS @F27@
 1 FAMC @F33@
-1 NOTE Count; died Varaždin. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Count; died Varaždin. Parentage (son of Krsto II Orssich and Jozefa Zichy) rests on Tötösy alone: Nagy Iván (vol. 8, Orsich) names Krsto's sons as Kristóf and probably Ádám, and Croatian Wikipedia (Kr
+2 CONC sto II. Oršić) as Adam (1748) and Franjo (1758); neither lists János Nepomuk. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I520@ INDI
 1 NAME Wulfhilde of Saxony
 1 SEX F
@@ -3854,7 +3859,9 @@
 2 DATE 6 MAY 1778
 1 FAMS @F33@
 1 FAMC @F34@
-1 NOTE Countess Zichy; died Bisztra. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Countess Zichy; died Bisztra. Wife of Krsto II Orssich (m. 1744): Nagy Iván, vol. 8, Orsich; Croatian Wikipedia, Krsto II. Oršić (Josipa Zichy, 1725-1778). Her parentage (Péter Zichy and Zsuzsanna Ber
+2 CONC csényi) rests on Tötösy alone: Nagy Iván, Magyarország családai, vol. 12, Zichy, lists the children of that marriage as Sára and Miklós (table: Miklós, Zsuzsa) and does not name her. Source: Tötösy de
+2 CONC  Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I530@ INDI
 1 NAME Alfonso VIII of Castile
 1 SEX M
@@ -5380,7 +5387,8 @@
 2 DATE 19 FEB 1782
 1 FAMS @F33@
 1 FAMC @F467@
-1 NOTE Count; chamberlain; died Zagreb. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Count (1744); chamberlain; died Zagreb. Married Countess Jozefa (Josipa) Zichy (1725-1778) in 1744: Nagy Iván, Magyarország családai, vol. 8, Orsich (family table: Kristóf, count 1744, wife gróf Zichy
+2 CONC  Jozefa; grandson of Antal); Croatian Wikipedia, Krsto II. Oršić. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
 0 @I670@ INDI
 1 NAME Bertold I. of Neuffen-Weissenhorn
 1 SEX M
@@ -5787,10 +5795,11 @@
 1 REFN Q688408
 1 NOTE Source: Wikidata Q688408 (https://www.wikidata.org/wiki/Q688408); medieval links not checked against primary sources.
 0 @I70@ INDI
-1 NAME Maria Anna /Petazzi/
+1 NAME Teodóra /Petazzi/
 1 SEX F
 1 FAMS @F30@
-1 NOTE Wife of Alexander Keglevich (m. 1736); parents unknown. Source: Wikipedia, Péter Keglevich.
+1 NOTE Wife of Sándor (Alexander) Keglevich (m. 1736); mother of Gyula, József and Johanna. Source: Nagy Iván, Magyarország családai, vol. 6, Keglevich (family table and text: Sándor's wife 'Petanczy Teodóra
+2 CONC '). Wikipedia (Péter Keglevich) wrongly gives her name as Maria Anna; parents unknown.
 0 @I710@ INDI
 1 NAME Welf I, Count of Altdorf
 1 SEX M
@@ -6600,7 +6609,7 @@
 1 DEAT
 2 DATE 1738
 1 FAMS @F31@
-1 NOTE Wife of Péter VII Keglevich. Source: Wikipedia, Péter Keglevich.
+1 NOTE Wife of Péter (VI) Keglevich, vice-ban and count of Pozsega (count 1708). Sources: Nagy Iván, Magyarország családai, vol. 6, Keglevich; Wikipedia, Péter Keglevich.
 0 @I7@ INDI
 1 NAME Antal /Orssich/
 1 SEX M
@@ -6610,7 +6619,8 @@
 2 DATE 10 OCT 1706
 1 FAMS @F469@
 1 FAMC @F471@
-1 NOTE Died Körmend. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Died Körmend. Captain of Karlovac, son of János-Ferenc Orsich: Nagy Iván, Magyarország családai, vol. 8, Orsich. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich 
+2 CONC section.
 0 @I800@ INDI
 1 NAME NN
 1 SEX F
@@ -6916,7 +6926,9 @@
 2 DATE 1733
 1 FAMS @F467@
 1 FAMC @F468@
-1 NOTE Countess Zajezdai Patachich; died Zagreb. Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue), Orssich section.
+1 NOTE Countess Zajezdai Patachich; died Zagreb. Daughter of János (IV) Patachich and a Darabos wife; wife of Baron Bernát Orsich: Nagy Iván, Magyarország családai, vol. 9, Patachich, p. 110 ('IV. Jánosnak (
+2 CONC 1702-ben) neje Darabos Anna volt, ettől két leánya maradt: Anna b. Orsich Bernátné, és Petronella Bedekovich Menyhértné'). Source: Tötösy de Zepetnek, Records of the Tötösy de Zepetnek Family (Purdue)
+2 CONC , Orssich section.
 0 @I840@ INDI
 1 NAME Ilona Rozgonyi
 1 SEX F
